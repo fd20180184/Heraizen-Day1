@@ -1,0 +1,44 @@
+#contactId {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #contactId td, #contactId th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  #contactId tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #contactId tr:hover {background-color: #ddd;}
+  
+  #contactId th {
+      
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.486);
+    color: white;
+  }
+  #headings {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.486);
+    color: white;
+  }
+  ul {
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  .profile-bio {
+      text-align: center;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      font-size: 20px;  
+      padding-right: 10px;
+      /* align: "center" */
+  }
